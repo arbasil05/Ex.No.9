@@ -129,74 +129,49 @@ Note the differences, adjust the prompt, and regenerate until the output closely
 ## Video 1
 
 ### Original Video
-*(Attach original video or link here)*
+
+https://github.com/user-attachments/assets/4822b9ac-79cf-456c-8ac0-72dd2533bd54
 
 ### Prompts Used
 
 **Basic Prompt:**
 ```
-[Your basic prompt here]
+Two people standing on a bridge over a calm pond, using binoculars and enjoying nature.
 ```
 
 **Intermediate Prompt:**
 ```
-[Your refined prompt here]
+A cinematic view of two people standing on a curved wooden bridge over a still pond, surrounded by dense green trees. They are using binoculars and slowly looking around, as if observing birds. The water reflects the bridge and foliage, and the atmosphere feels calm and natural with soft daylight.
 ```
 
 **Advanced Prompt:**
 ```
-[Your final detailed prompt here]
+A cinematic ultra-realistic 4K video (3840x2160, 25fps) of a gently arched wooden pedestrian bridge spanning horizontally across the center of the frame over a calm greenish pond. The camera is positioned at a fixed tripod point on land, approximately 10–15 meters away from the bridge, at a height of ~1.6 meters (eye level), using a 35mm wide-angle lens. The camera is oriented perpendicular to the bridge, capturing a perfect side profile view with slight depth perspective.
+
+The bridge occupies the middle third of the frame, curving upward in a smooth arc. Its wooden railings form clean horizontal lines, supported by evenly spaced vertical posts. The lower third of the frame shows the pond, with a near-perfect reflection of the bridge and surrounding greenery, slightly distorted by subtle, slow-moving ripples.
+
+Two adult individuals stand on the bridge, positioned slightly right of center. One stands closer to the middle, the other about 1–1.5 meters to the right. Both are facing away from the camera toward the dense trees. Each person is holding binoculars up to their eyes. Their posture is relaxed, with minimal movement — slow head turns and slight arm adjustments as they scan the environment.
+
+The background is densely filled with layered green foliage, occupying the entire upper half of the frame. The trees vary in tone — light green in the midground and darker green in the deeper background, creating depth separation. No sky is visible; the frame is fully enclosed by greenery.
+
+Lighting is soft natural daylight, slightly diffused (as if under light cloud cover), producing no harsh shadows. Colors are balanced with a cinematic grade: muted greens, slightly warm highlights, and natural skin tones. No overexposure.
+
+Motion is minimal and realistic:
+- Water surface: gentle micro-ripples moving horizontally
+- Leaves: very subtle movement indicating a light breeze
+- Subjects: slow, natural binocular scanning movements
+- Camera: completely static with very slight micro-stabilization (no pan, no tilt, no zoom)
+
+Depth of field is moderately deep (f/5.6–f/8 look), keeping both subjects and background foliage in clear focus while maintaining slight background softness.
+
+No additional objects, no text, no artificial elements. Pure natural ambience, calm and immersive composition.
 ```
 
 ### Generated Video
-*(Attach generated video or link here)*
+https://github.com/user-attachments/assets/40fef61d-68fe-4c8d-a285-b9681e0d5288
 
-### Comparison Notes
 
-- **Colors** — 
-- **Composition** — 
-- **Subjects** — 
-- **Style** — 
-- **Lighting** — 
-- **Motion** — 
 
----
-
-## Video 2
-
-### Original Video
-*(Attach original video or link here)*
-
-### Prompts Used
-
-**Basic Prompt:**
-```
-[Your basic prompt here]
-```
-
-**Intermediate Prompt:**
-```
-[Your refined prompt here]
-```
-
-**Advanced Prompt:**
-```
-[Your final detailed prompt here]
-```
-
-### Generated Video
-*(Attach generated video or link here)*
-
-### Comparison Notes
-
-- **Colors** — 
-- **Composition** — 
-- **Subjects** — 
-- **Style** — 
-- **Lighting** — 
-- **Motion** — 
-
----
 
 ## Result
 
