@@ -1,7 +1,7 @@
 # Exp 9 — Exploration of Prompting Techniques for Video Generation
 
 
-### Date: 222-05-26 
+### Date: 22-05-26 
 ### Register No.: 212223040002
 
 ---
